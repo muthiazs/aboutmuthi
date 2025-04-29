@@ -14,7 +14,13 @@ export default function ProjectCard({ project }: { project: Project }) {
     <Link href={`/project/${project.slug}`}>
       <Card
         hoverable
-        cover={<img alt={project.title} src={project.image} />}
+        cover={
+          <img
+            alt={project.title}
+            src={project.image}
+            style={{ objectFit: 'cover', height: '200px', width: '100%' }}
+          />
+        }        
         className="max-w-[300px] bg-white rounded-md shadow"
       >
         <Card.Meta title={project.title} description={project.year} />

@@ -25,22 +25,22 @@ export default function Hero() {
           </p>
           
           <div className="mt-6 mb-8">
-            <h2 className="font-bold mb-2">Get to know me from this pic!!👇</h2>
+            <h2 className="font-bold mb-2">Get to know me from here!!👇</h2>
             <div className="flex space-x-3 my-4">
-              <Link href="#" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
-                <img src="/icons/github.svg" alt="GitHub" className="w-5 h-5" />
+              <Link href="https://github.com/muthiazs" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" className="w-5 h-5" />
               </Link>
-              <Link href="#" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
-                <img src="/icons/linkedin.svg" alt="LinkedIn" className="w-5 h-5" />
+              <Link href="https://www.linkedin.com/in/muthia-zhafira" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" className="w-5 h-5" />
               </Link>
-              <Link href="#" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
-                <img src="/icons/instagram.svg" alt="Instagram" className="w-5 h-5" />
+              <Link href="https://www.instagram.com/muthiaaazs/" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" className="w-5 h-5" />
               </Link>
-              <Link href="#" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
-                <img src="/icons/twitter.svg" alt="Twitter" className="w-5 h-5" />
+              <Link href="https://www.threads.com/thiaanyaa/" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/threads.svg" alt="threads" className="w-5 h-5" />
               </Link>
-              <Link href="#" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
-                <img src="/icons/tiktok.svg" alt="TikTok" className="w-5 h-5" />
+              <Link href="https://www.tiktok.com/@devgurlll?_t=ZS-8vvFLJU9ftc&_r=1" className="w-8 h-8 bg-gray-200 rounded flex items-center justify-center">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" alt="TikTok" className="w-5 h-5" />
               </Link>
             </div>
             <p className="text-sm text-gray-500">Find out more about me and my personal life on social media.</p>

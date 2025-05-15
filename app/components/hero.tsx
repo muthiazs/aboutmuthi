@@ -36,7 +36,7 @@ export default function Hero() {
         <Lanyard position={[0, 0, 15]} gravity={[0, -40, 0]} />
       </div>
 
-      <div className="absolute left-20 md:block w-1/1 h-full relative">
+      <div className="absolute left-2 md:block w-1/1 h-full relative">
               <h1 className='text-pink-700 font-bold'>Each card has a story... swipe to reveal💗💌</h1>
               <Stack
                 randomRotation={true}

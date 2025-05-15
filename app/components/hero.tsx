@@ -66,14 +66,7 @@ export default function Hero() {
           </div>
         </h1>
           <p className="text-xl font-medium mb-4">
-            Enthusiastic Computer Science (Informatics) student at
-            Diponegoro University with strong communication skills and
-            a passion for learning. Proficient in team collaboration,
-            seeking opportunities to develop skills and gain new
-            experiences, actively exploring UI/UX Design, web and app
-            development, and interested in scholarships and career
-            opportunities. I am dedicated to contributing effectively to
-            any team and constantly improving my knowledge.
+          I’m a Computer Science (Informatics) student at Diponegoro University who’s always curious and open to learning. I’m currently focused on exploring web development and UI/UX design, and I really enjoy being involved in projects that let me grow both personally and professionally. Beyond tech, I have a strong interest in scholarship and career-related initiatives, as well as educational and social programs that create real impact. I find meaning in sharing knowledge, supporting others, and being part of communities that strive to make things better. Whether through mentoring, organizing, or just listening and learning, I’m always excited to contribute and keep improving.
           </p>
           
           <div className="mt-6 mb-8">

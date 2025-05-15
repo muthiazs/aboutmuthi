@@ -12,8 +12,8 @@ export default function Navigation() {
         </div>
         <div className="mx-auto flex space-x-4 w-fit">
           <Link href="/" className="text-pink-300 hover:text-pink-500 font-bold">Home</Link>
-          <Link href="/experience" className="text-pink-300 hover:text-pink-500 font-bold">Experience</Link>
           <Link href="/project" className="text-pink-300 hover:text-pink-500 font-bold">Project</Link>
+          <Link href="/experience" className="text-pink-300 hover:text-pink-500 font-bold">Experience</Link>
         </div>
         <div className="ml-auto flex space-x-4">
         <Link href="/contact" className="text-pink-300 hover:text-pink-500 font-bold">Contact</Link>

@@ -7,8 +7,8 @@ export default function Project1Page() {
     <div style={{ backgroundColor: '#fff', color: '#000', paddingBottom: '4rem' }}>
       <div style={{ maxWidth: '1000px', margin: '0 auto', padding: '2rem 1rem' }}>
         {/* Back link */}
-        <Link href="/" style={{ fontSize: '0.9rem', textDecoration: 'none', color: '#555' }}>
-          ← BACK TO HOME
+        <Link href="/project" style={{ fontSize: '0.9rem', textDecoration: 'none', color: '#555' }}>
+          ← BACK TO PROJECT LIST
         </Link>
 
         {/* Title & Description */}
@@ -52,7 +52,7 @@ export default function Project1Page() {
           padding: '1.5rem',
           borderRadius: '8px',
         }}>
-          <Link href="/project/project2" style={{ textDecoration: 'none', color: '#333' }}>
+          <Link href="/project/sip-irs" style={{ textDecoration: 'none', color: '#333' }}>
             Next Project →
           </Link>
         </div>

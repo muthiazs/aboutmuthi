@@ -7,15 +7,15 @@ export default function Project1Page() {
     <div style={{ backgroundColor: '#fff', color: '#000', paddingBottom: '4rem' }}>
       <div style={{ maxWidth: '1000px', margin: '0 auto', padding: '2rem 1rem' }}>
         {/* Back link */}
-        <Link href="/" style={{ fontSize: '0.9rem', textDecoration: 'none', color: '#555' }}>
-          ← BACK TO HOME
+        <Link href="/project" style={{ fontSize: '0.9rem', textDecoration: 'none', color: '#555' }}>
+          ← BACK TO PROJECT LIST
         </Link>
 
         {/* Title & Description */}
         <h1 style={{ fontSize: '2rem', margin: '1rem 0', fontWeight: 'bold' }}>SIP-IRS</h1>
 
         <div style={{ display: 'flex', gap: '1rem', marginTop: '1rem', background: '#EADCDC', padding: '2rem' }}>
-          <img src="/assets/SIP-IRS.png" alt="sip-irs" style={{ flex: 1, borderRadius: '8px' }} />
+          <img src="/assets/sipirs.png" alt="sip-irs" style={{ flex: 1, borderRadius: '8px' }} />
         </div>
 
         <p style={{ fontSize: '1rem', lineHeight: 1.6 }}>
@@ -45,7 +45,7 @@ export default function Project1Page() {
           padding: '1.5rem',
           borderRadius: '8px',
         }}>
-          <Link href="/project/project2" style={{ textDecoration: 'none', color: '#333' }}>
+          <Link href="/project/TerraAI" style={{ textDecoration: 'none', color: '#333' }}>
             Next Project →
           </Link>
         </div>

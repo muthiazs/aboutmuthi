@@ -54,6 +54,7 @@ const projects = [
 export default function Home() {
   return (
     <main className="container mx-auto px-4 py-6">
+    <title>project-gallery💗</title>
      <Navigation/>
       {/* Project Section */}
       <section className="mt-12">

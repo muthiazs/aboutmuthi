@@ -55,6 +55,7 @@ const experiences = [
 export default function ExperiencePage() {
   return (
     <main className="container mx-auto px-4 py-6">
+    <title>myexperience💗</title>
     <Navigation />
     <div className="min-h-screen bg-pink-50 px-6 py-12">
       <h1 className="text-4xl font-bold text-pink-700 text-center mb-8">My Experience 💼</h1>
